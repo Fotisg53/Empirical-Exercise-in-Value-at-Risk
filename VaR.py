@@ -16,7 +16,7 @@ import yfinance as yf
 
 tickers= ['AGG','BND', 'TLT','IEF','SHY','LQD','HYG','JNK','TIP','BNDX','EMB','GOVT','VGIT','VCIT','VCSH','IGIB','USIG','FALN','USHY',
           'SCHP','VTIP','STIP','BWX','IGOV','VWOB','PCY','BOND','BSV','BIV','BLV','SPSB','SPIB','SPLB','SCHR','SCHO','SCHZ','MUB','SUB',
-          'VTEB','SHM','ITM','MLN','NEAR','SHV','ICSH','JPST','GSY','FLOT','MINT','IGSB'] #MEXRI 288 GRAMMH A ERVTHMA 
+          'VTEB','SHM','ITM','MLN','NEAR','SHV','ICSH','JPST','GSY','FLOT','MINT','IGSB'] 
 
 #Question A - 1 Day VaR
 
